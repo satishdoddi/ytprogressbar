@@ -1,5 +1,5 @@
 # ytprogressbar
-yt
+
 ytprogress ytp = new ytprogress(getApplicationContext(), progressbar1);
 
 ytp.showProgress();
